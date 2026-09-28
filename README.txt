@@ -1,4 +1,4 @@
-LOCAL COPY OF THE ANIMEJS.COM HOMEPAGE  (macOS)
+LOCAL COPY OF THE ANIMEJS.COM HOMEPAGE  (macOS --> web)
 ===============================================
 
 HOW TO RUN
